@@ -41,12 +41,23 @@ namespace Karácsony_Díszek_CLI
     {
         static void Main(string[] args)
         {
+            //3.Feladat 
             string[] beolvas = File.ReadAllLines("diszek.txt");
             NapiMunka[] tarol = new NapiMunka[beolvas.Length];
             for (int i = 0; i < tarol.Length; i++)
             {
-                tarol[i] = tarol(NapiMunka[i]);
+                tarol[i] = new NapiMunka(beolvas[i]);
             }
+
+            //4.Feladat
+            for (int i = 0; i < tarol[1].Nap; i++)
+            {
+                int osszes = tarol[1].HarangKesz + tarol[3].AngyalkaKesz + tarol[5].FenyofaKesz;
+                Console.WriteLine("{0}", osszes);
+            }
+           
+
+            Console.ReadLine();
         }
     }
 }
