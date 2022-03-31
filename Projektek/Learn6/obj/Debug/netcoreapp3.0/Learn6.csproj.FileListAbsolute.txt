@@ -1,0 +1,11 @@
+G:\visual\Projektek\Learn6\bin\Debug\netcoreapp3.0\Learn6.exe
+G:\visual\Projektek\Learn6\bin\Debug\netcoreapp3.0\Learn6.deps.json
+G:\visual\Projektek\Learn6\bin\Debug\netcoreapp3.0\Learn6.runtimeconfig.json
+G:\visual\Projektek\Learn6\bin\Debug\netcoreapp3.0\Learn6.runtimeconfig.dev.json
+G:\visual\Projektek\Learn6\bin\Debug\netcoreapp3.0\Learn6.dll
+G:\visual\Projektek\Learn6\bin\Debug\netcoreapp3.0\Learn6.pdb
+G:\visual\Projektek\Learn6\obj\Debug\netcoreapp3.0\Learn6.csprojAssemblyReference.cache
+G:\visual\Projektek\Learn6\obj\Debug\netcoreapp3.0\Learn6.AssemblyInfoInputs.cache
+G:\visual\Projektek\Learn6\obj\Debug\netcoreapp3.0\Learn6.AssemblyInfo.cs
+G:\visual\Projektek\Learn6\obj\Debug\netcoreapp3.0\Learn6.dll
+G:\visual\Projektek\Learn6\obj\Debug\netcoreapp3.0\Learn6.pdb

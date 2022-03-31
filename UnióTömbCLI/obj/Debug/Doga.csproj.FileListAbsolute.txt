@@ -1,0 +1,14 @@
+G:\Visual Studio Gyakorlatok\Doga\bin\Debug\Doga.exe.config
+G:\Visual Studio Gyakorlatok\Doga\bin\Debug\Doga.exe
+G:\Visual Studio Gyakorlatok\Doga\bin\Debug\Doga.pdb
+G:\Visual Studio Gyakorlatok\Doga\obj\Debug\Doga.csprojAssemblyReference.cache
+G:\Visual Studio Gyakorlatok\Doga\obj\Debug\Doga.csproj.CoreCompileInputs.cache
+G:\Visual Studio Gyakorlatok\Doga\obj\Debug\Doga.exe
+G:\Visual Studio Gyakorlatok\Doga\obj\Debug\Doga.pdb
+Z:\kjhgoefuhg\Visual Studio Gyakorlatok\Doga\bin\Debug\Doga.exe.config
+Z:\kjhgoefuhg\Visual Studio Gyakorlatok\Doga\bin\Debug\Doga.exe
+Z:\kjhgoefuhg\Visual Studio Gyakorlatok\Doga\bin\Debug\Doga.pdb
+Z:\kjhgoefuhg\Visual Studio Gyakorlatok\Doga\obj\Debug\Doga.csproj.AssemblyReference.cache
+Z:\kjhgoefuhg\Visual Studio Gyakorlatok\Doga\obj\Debug\Doga.csproj.CoreCompileInputs.cache
+Z:\kjhgoefuhg\Visual Studio Gyakorlatok\Doga\obj\Debug\Doga.exe
+Z:\kjhgoefuhg\Visual Studio Gyakorlatok\Doga\obj\Debug\Doga.pdb

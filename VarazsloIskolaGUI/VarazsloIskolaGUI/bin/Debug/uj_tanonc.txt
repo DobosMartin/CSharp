@@ -1,0 +1,3 @@
+Kis Márti;Elfogadható;Várakozáson felüli;10;12;
+Emma Emily;Várakozáson felüli;Hitvány;10;0;
+a;Elfogadható;Várakozáson felüli;1;2;

@@ -1,0 +1,33 @@
+20210929-évszakok
+20211005-Feladatsorok 20-30
+20211007-Totó-1
+20211132-Lift
+20210927-Feladatsorok 1-20
+20201123-Oktatas
+20210127-Alapszámológép
+20210209-Üdvözlő_GUI
+20210215-Logaritmus_GUI
+20210224-Totó-2
+20210301-ComboBox_GUI
+20210309-Listbox_GUI
+Doga-UnióTömb
+F01 - Csengetésirend
+F02 - BMI
+Gyakorlás- Megszámlálás
+Gyakorlás2- kiválasztás
+
+
+20210927-Feladatsorok2 1-20
+20211005-Feladatsorok2 20-30
+20211109-Pecséthely
+20211202-Választok
+20220106-Üzemanyag_GUI
+20220111-Társalgó_CLI
+20220217-Versenyeredmények_GUI
+20220222_GUI
+20220301-Varazsloiskola_CLI
+
+
+
+
+20210308-krémes html

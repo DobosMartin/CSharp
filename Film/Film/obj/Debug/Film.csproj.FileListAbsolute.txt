@@ -1,0 +1,15 @@
+Z:\VisualStudioProject\Film\Film\bin\Debug\Film.exe.config
+Z:\VisualStudioProject\Film\Film\bin\Debug\Film.exe
+Z:\VisualStudioProject\Film\Film\bin\Debug\Film.pdb
+Z:\VisualStudioProject\Film\Film\obj\Debug\Film.csproj.AssemblyReference.cache
+Z:\VisualStudioProject\Film\Film\obj\Debug\Film.Form1.resources
+Z:\VisualStudioProject\Film\Film\obj\Debug\Film.Properties.Resources.resources
+Z:\VisualStudioProject\Film\Film\obj\Debug\Film.csproj.GenerateResource.cache
+Z:\VisualStudioProject\Film\Film\obj\Debug\Film.csproj.CoreCompileInputs.cache
+Z:\VisualStudioProject\Film\Film\obj\Debug\Film.exe
+Z:\VisualStudioProject\Film\Film\obj\Debug\Film.pdb
+Z:\VisualStudioProject\Film\Film\bin\Debug\FontAwesome.Sharp.dll
+Z:\VisualStudioProject\Film\Film\obj\Debug\Film.csproj.CopyComplete
+Z:\VisualStudioProject\Film\Film\obj\Debug\Film.Kereso.resources
+Z:\VisualStudioProject\Film\Film\obj\Debug\Film.filmek.resources
+Z:\VisualStudioProject\Film\Film\obj\Debug\Film.Form2.resources

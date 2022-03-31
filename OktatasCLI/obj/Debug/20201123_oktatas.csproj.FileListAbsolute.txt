@@ -1,0 +1,7 @@
+G:\Visual Studio Gyakorlatok\20201123_oktatas\bin\Debug\20201123_oktatas.exe.config
+G:\Visual Studio Gyakorlatok\20201123_oktatas\bin\Debug\20201123_oktatas.exe
+G:\Visual Studio Gyakorlatok\20201123_oktatas\bin\Debug\20201123_oktatas.pdb
+G:\Visual Studio Gyakorlatok\20201123_oktatas\obj\Debug\20201123_oktatas.csprojAssemblyReference.cache
+G:\Visual Studio Gyakorlatok\20201123_oktatas\obj\Debug\20201123_oktatas.csproj.CoreCompileInputs.cache
+G:\Visual Studio Gyakorlatok\20201123_oktatas\obj\Debug\20201123_oktatas.exe
+G:\Visual Studio Gyakorlatok\20201123_oktatas\obj\Debug\20201123_oktatas.pdb

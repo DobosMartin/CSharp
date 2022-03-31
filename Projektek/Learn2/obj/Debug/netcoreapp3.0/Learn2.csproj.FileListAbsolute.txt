@@ -1,0 +1,11 @@
+G:\visual\Projektek\Learn2\bin\Debug\netcoreapp3.0\Learn2.exe
+G:\visual\Projektek\Learn2\bin\Debug\netcoreapp3.0\Learn2.deps.json
+G:\visual\Projektek\Learn2\bin\Debug\netcoreapp3.0\Learn2.runtimeconfig.json
+G:\visual\Projektek\Learn2\bin\Debug\netcoreapp3.0\Learn2.runtimeconfig.dev.json
+G:\visual\Projektek\Learn2\bin\Debug\netcoreapp3.0\Learn2.dll
+G:\visual\Projektek\Learn2\bin\Debug\netcoreapp3.0\Learn2.pdb
+G:\visual\Projektek\Learn2\obj\Debug\netcoreapp3.0\Learn2.csprojAssemblyReference.cache
+G:\visual\Projektek\Learn2\obj\Debug\netcoreapp3.0\Learn2.AssemblyInfoInputs.cache
+G:\visual\Projektek\Learn2\obj\Debug\netcoreapp3.0\Learn2.AssemblyInfo.cs
+G:\visual\Projektek\Learn2\obj\Debug\netcoreapp3.0\Learn2.dll
+G:\visual\Projektek\Learn2\obj\Debug\netcoreapp3.0\Learn2.pdb

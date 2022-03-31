@@ -1,0 +1,3 @@
+Név;Ország;P1;P2;P3
+Nagy Jóska;HUN;25,8;88,1;86,2
+Kiss Márti;HUN;34,2;63,1;22

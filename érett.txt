@@ -1,0 +1,24 @@
+Biztonság
+- a számítógépes károkozók és azok legfontosabb jellemzőit (vírus, trójai, féreg, adware, 
+spyware, spam)
+- az alapvető támadástípusok és a megtévesztési technikák
+- a hatékony védekezés lehetőségei
+- a frissítések jelentősége
+- a kártékony szoftverek szűrésének lehetőségei
+- a vírus fogalma
+- a vírusok közös jellemzői
+- a vírusok főbb osztályai
+- a vírusfertőzés jelei, felismerése
+- védekezés a vírusok ellen
+- az Antivirus programokat csoportosítása
+
+Számítógép konfiguráció
+- adott operációs rendszer hardverkövetelményeinek meghatározása (windows 10, linux)
+- háttértár üzembe helyezése, partícionálása és formázása
+- meghajtó programok, frissítések, hibajavító csomagok telepítése
+- az operációs rendszer telepítésének lépései
+- számítógép indítási folyamata
+- alkalmazások telepítése és eltávolítása
+- a személyes tűzfal alapszintű beállításainak elvégezése
+- a biztonságos böngészés beállításainak elvégzése
+- a számítógép általános felépítése és blokkvázlata

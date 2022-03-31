@@ -1,0 +1,11 @@
+G:\visual\Iskolai gyakorlások\Gyakorlás\bin\Debug\netcoreapp3.0\Gyakorlás.exe
+G:\visual\Iskolai gyakorlások\Gyakorlás\bin\Debug\netcoreapp3.0\Gyakorlás.deps.json
+G:\visual\Iskolai gyakorlások\Gyakorlás\bin\Debug\netcoreapp3.0\Gyakorlás.runtimeconfig.json
+G:\visual\Iskolai gyakorlások\Gyakorlás\bin\Debug\netcoreapp3.0\Gyakorlás.runtimeconfig.dev.json
+G:\visual\Iskolai gyakorlások\Gyakorlás\bin\Debug\netcoreapp3.0\Gyakorlás.dll
+G:\visual\Iskolai gyakorlások\Gyakorlás\bin\Debug\netcoreapp3.0\Gyakorlás.pdb
+G:\visual\Iskolai gyakorlások\Gyakorlás\obj\Debug\netcoreapp3.0\Gyakorlás.csprojAssemblyReference.cache
+G:\visual\Iskolai gyakorlások\Gyakorlás\obj\Debug\netcoreapp3.0\Gyakorlás.AssemblyInfoInputs.cache
+G:\visual\Iskolai gyakorlások\Gyakorlás\obj\Debug\netcoreapp3.0\Gyakorlás.AssemblyInfo.cs
+G:\visual\Iskolai gyakorlások\Gyakorlás\obj\Debug\netcoreapp3.0\Gyakorlás.dll
+G:\visual\Iskolai gyakorlások\Gyakorlás\obj\Debug\netcoreapp3.0\Gyakorlás.pdb

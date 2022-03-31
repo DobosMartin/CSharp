@@ -1,0 +1,9 @@
+Z:\12c\prog\IskolaGUI\IskolaGUI\bin\Debug\IskolaGUI.exe.config
+Z:\12c\prog\IskolaGUI\IskolaGUI\bin\Debug\IskolaGUI.exe
+Z:\12c\prog\IskolaGUI\IskolaGUI\bin\Debug\IskolaGUI.pdb
+Z:\12c\prog\IskolaGUI\IskolaGUI\obj\Debug\IskolaGUI.csprojAssemblyReference.cache
+Z:\12c\prog\IskolaGUI\IskolaGUI\obj\Debug\IskolaGUI.Form1.resources
+Z:\12c\prog\IskolaGUI\IskolaGUI\obj\Debug\IskolaGUI.Properties.Resources.resources
+Z:\12c\prog\IskolaGUI\IskolaGUI\obj\Debug\IskolaGUI.csproj.GenerateResource.cache
+Z:\12c\prog\IskolaGUI\IskolaGUI\obj\Debug\IskolaGUI.exe
+Z:\12c\prog\IskolaGUI\IskolaGUI\obj\Debug\IskolaGUI.pdb

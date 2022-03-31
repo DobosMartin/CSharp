@@ -1,0 +1,22 @@
+G:\visual\Iskolai gyakorlások\Gyakorlás2\bin\Debug\netcoreapp3.0\Gyakorlás2.exe
+G:\visual\Iskolai gyakorlások\Gyakorlás2\bin\Debug\netcoreapp3.0\Gyakorlás2.deps.json
+G:\visual\Iskolai gyakorlások\Gyakorlás2\bin\Debug\netcoreapp3.0\Gyakorlás2.runtimeconfig.json
+G:\visual\Iskolai gyakorlások\Gyakorlás2\bin\Debug\netcoreapp3.0\Gyakorlás2.runtimeconfig.dev.json
+G:\visual\Iskolai gyakorlások\Gyakorlás2\bin\Debug\netcoreapp3.0\Gyakorlás2.dll
+G:\visual\Iskolai gyakorlások\Gyakorlás2\bin\Debug\netcoreapp3.0\Gyakorlás2.pdb
+G:\visual\Iskolai gyakorlások\Gyakorlás2\obj\Debug\netcoreapp3.0\Gyakorlás2.AssemblyInfoInputs.cache
+G:\visual\Iskolai gyakorlások\Gyakorlás2\obj\Debug\netcoreapp3.0\Gyakorlás2.AssemblyInfo.cs
+G:\visual\Iskolai gyakorlások\Gyakorlás2\obj\Debug\netcoreapp3.0\Gyakorlás2.dll
+G:\visual\Iskolai gyakorlások\Gyakorlás2\obj\Debug\netcoreapp3.0\Gyakorlás2.pdb
+G:\visual\Iskolai gyakorlások\Gyakorlás2\obj\Debug\netcoreapp3.0\Gyakorlás2.csprojAssemblyReference.cache
+G:\Visual Studio Gyakorlatok\Iskolai gyakorlások\Gyakorlás2\bin\Debug\netcoreapp3.0\Gyakorlás2.exe
+G:\Visual Studio Gyakorlatok\Iskolai gyakorlások\Gyakorlás2\bin\Debug\netcoreapp3.0\Gyakorlás2.deps.json
+G:\Visual Studio Gyakorlatok\Iskolai gyakorlások\Gyakorlás2\bin\Debug\netcoreapp3.0\Gyakorlás2.runtimeconfig.json
+G:\Visual Studio Gyakorlatok\Iskolai gyakorlások\Gyakorlás2\bin\Debug\netcoreapp3.0\Gyakorlás2.runtimeconfig.dev.json
+G:\Visual Studio Gyakorlatok\Iskolai gyakorlások\Gyakorlás2\bin\Debug\netcoreapp3.0\Gyakorlás2.dll
+G:\Visual Studio Gyakorlatok\Iskolai gyakorlások\Gyakorlás2\bin\Debug\netcoreapp3.0\Gyakorlás2.pdb
+G:\Visual Studio Gyakorlatok\Iskolai gyakorlások\Gyakorlás2\obj\Debug\netcoreapp3.0\Gyakorlás2.csprojAssemblyReference.cache
+G:\Visual Studio Gyakorlatok\Iskolai gyakorlások\Gyakorlás2\obj\Debug\netcoreapp3.0\Gyakorlás2.AssemblyInfoInputs.cache
+G:\Visual Studio Gyakorlatok\Iskolai gyakorlások\Gyakorlás2\obj\Debug\netcoreapp3.0\Gyakorlás2.AssemblyInfo.cs
+G:\Visual Studio Gyakorlatok\Iskolai gyakorlások\Gyakorlás2\obj\Debug\netcoreapp3.0\Gyakorlás2.dll
+G:\Visual Studio Gyakorlatok\Iskolai gyakorlások\Gyakorlás2\obj\Debug\netcoreapp3.0\Gyakorlás2.pdb

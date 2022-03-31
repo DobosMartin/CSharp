@@ -1,0 +1,10 @@
+G:\Visual Studio Gyakorlatok\20210209\20210209\bin\Release\20210209.exe.config
+G:\Visual Studio Gyakorlatok\20210209\20210209\bin\Release\20210209.exe
+G:\Visual Studio Gyakorlatok\20210209\20210209\bin\Release\20210209.pdb
+G:\Visual Studio Gyakorlatok\20210209\20210209\obj\Release\_20210209.Form1.resources
+G:\Visual Studio Gyakorlatok\20210209\20210209\obj\Release\_20210209.Properties.Resources.resources
+G:\Visual Studio Gyakorlatok\20210209\20210209\obj\Release\20210209.csproj.GenerateResource.cache
+G:\Visual Studio Gyakorlatok\20210209\20210209\obj\Release\20210209.csproj.CoreCompileInputs.cache
+G:\Visual Studio Gyakorlatok\20210209\20210209\obj\Release\20210209.exe
+G:\Visual Studio Gyakorlatok\20210209\20210209\obj\Release\20210209.pdb
+G:\Visual Studio Gyakorlatok\20210209\20210209\obj\Release\20210209.csprojAssemblyReference.cache

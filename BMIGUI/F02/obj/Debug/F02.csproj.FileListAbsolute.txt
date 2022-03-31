@@ -1,0 +1,10 @@
+E:\Visual Studio Gyakorlatok\F02\F02\obj\Debug\F02.csprojAssemblyReference.cache
+E:\Visual Studio Gyakorlatok\F02\F02\obj\Debug\F02.Form1.resources
+E:\Visual Studio Gyakorlatok\F02\F02\obj\Debug\F02.Properties.Resources.resources
+E:\Visual Studio Gyakorlatok\F02\F02\obj\Debug\F02.csproj.GenerateResource.cache
+E:\Visual Studio Gyakorlatok\F02\F02\obj\Debug\F02.csproj.CoreCompileInputs.cache
+E:\Visual Studio Gyakorlatok\F02\F02\bin\Debug\F02.exe.config
+E:\Visual Studio Gyakorlatok\F02\F02\bin\Debug\F02.exe
+E:\Visual Studio Gyakorlatok\F02\F02\bin\Debug\F02.pdb
+E:\Visual Studio Gyakorlatok\F02\F02\obj\Debug\F02.exe
+E:\Visual Studio Gyakorlatok\F02\F02\obj\Debug\F02.pdb

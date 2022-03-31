@@ -1,0 +1,2 @@
+Z:\kjhgoefuhg\Visual Studio Gyakorlatok\Karácsony Díszek CLI\Karácsony Díszek CLI\obj\Debug\Karácsony Díszek CLI.csproj.AssemblyReference.cache
+Z:\kjhgoefuhg\Visual Studio Gyakorlatok\Karácsony Díszek CLI\Karácsony Díszek CLI\obj\Debug\Karácsony Díszek CLI.csproj.CoreCompileInputs.cache
